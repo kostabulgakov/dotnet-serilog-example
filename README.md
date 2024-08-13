@@ -1,5 +1,8 @@
 # dotnet-serilog-example
 
+## Brief
+Basic .NET app that is using open source library (Serilog)
+
 ## Commands
 ``` bash
 dotnet new console -n SerilogTestApp
